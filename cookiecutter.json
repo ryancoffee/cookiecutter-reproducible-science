@@ -1,11 +1,11 @@
 {
-    "full_name": "Mario Krapp",
-    "email": "mariokrapp@gmail.com",
-    "github_username": "mkrapp",
-    "project_name": "Name of your science project",
+    "full_name": "Ryan Coffee",
+    "email": "coffee@slac.stanford.edu",
+    "github_username": "ryancoffee",
+    "project_name": "Science research project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "project_short_description": "A short description of your project",
     "release_date": "{% now 'local' %}",
-    "version": "0.1.0",
+    "version": "0.0.0",
     "_extensions": ["jinja2_time.TimeExtension"]
 }
