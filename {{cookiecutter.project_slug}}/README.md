@@ -21,9 +21,12 @@ Project Organization
     ├── notebooks
     ├── reports
     │   └── figures
-    └── src
-        ├── data
-        ├── external
-        ├── models
-        ├── tools
-        └── visualization
+    │   └── references
+    ├── objects
+    ├── include
+    ├── src
+    │   ├── data
+    │   ├── external
+    │   ├── models
+    │   └── tools
+    └── visualization
